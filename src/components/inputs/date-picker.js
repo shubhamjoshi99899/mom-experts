@@ -2,7 +2,6 @@ import {
   Box,
   InputLabel,
   TextField,
-  Theme,
   useMediaQuery,
   useTheme,
 } from "@mui/material";

@@ -1,6 +1,6 @@
 import React from "react";
 
-const Carousel = ({user}) => {
+const Carousel = () => {
   return (
     <div className=" md:py-8 mb-8 md:mb-12 xl:mb-16">
       <div

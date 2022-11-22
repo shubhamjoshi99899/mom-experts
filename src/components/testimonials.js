@@ -24,7 +24,6 @@ const Testimonials = () => {
                   <img
                     src="https://parade.com/.image/t_share/MTkwNTgxMjYwODIxMDc5OTMy/single-mom-quotes-1-jpg.jpg"
                     loading="lazy"
-                    alt="Photo by Radu Florin"
                     className="w-full h-full object-cover object-center"
                   />
                 </div>
@@ -53,7 +52,6 @@ const Testimonials = () => {
                   <img
                     src="https://parade.com/.image/t_share/MTkwNTgxMjYwODIxMDc5OTMy/single-mom-quotes-1-jpg.jpg"
                     loading="lazy"
-                    alt="Photo by Radu Florin"
                     className="w-full h-full object-cover object-center"
                   />
                 </div>
@@ -82,7 +80,6 @@ const Testimonials = () => {
                   <img
                     src="https://parade.com/.image/t_share/MTkwNTgxMjYwODIxMDc5OTMy/single-mom-quotes-1-jpg.jpg"
                     loading="lazy"
-                    alt="Photo by Radu Florin"
                     className="w-full h-full object-cover object-center"
                   />
                 </div>

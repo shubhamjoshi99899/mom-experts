@@ -45,7 +45,6 @@ const Hero = () => {
               <img
                 src="https://img.freepik.com/free-photo/mother-with-daughter-playing-autumn-field_1157-25390.jpg?w=2000"
                 loading="lazy"
-                alt="Photo by Fakurian Design"
                 className="w-full h-full object-cover object-center"
               />
             </div>
