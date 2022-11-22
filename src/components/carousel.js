@@ -58,7 +58,7 @@ const Carousel = () => {
                     Empowering mothers, Transforming motherhood
                   </p>
                   <a
-                    href="#"
+                    href="/register"
                     className="mt-8 inline-block bg-white border border-transparent rounded-md py-3 px-8 text-base font-medium text-gray-900 font-bold hover:bg-gray-100"
                   >
                     Join
@@ -96,7 +96,7 @@ const Carousel = () => {
                     HOW WE CAN HELP YOU?
                   </p>
                   <a
-                    href="#"
+                    href="/register"
                     className="mt-8 inline-block bg-white border border-transparent rounded-md py-3 px-8 text-base font-medium text-gray-900 hover:bg-gray-100"
                   >
                     Join
@@ -132,7 +132,7 @@ const Carousel = () => {
                    The caring Mom for all the lovely Mumma's
                   </p>
                   <a
-                    href="#"
+                    href="/register"
                     className="mt-8 inline-block bg-white border border-transparent rounded-md py-3 px-8 text-base font-medium text-gray-900 hover:bg-gray-100"
                   >
                     Join

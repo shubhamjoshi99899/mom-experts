@@ -56,7 +56,7 @@ const Header = ({ user }) => {
               href="/register"
               className="hidden lg:inline-block bg-blue-600 hover:bg-blue-700 focus-visible:ring ring-indigo-800 text-white active:text-black text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3"
             >
-             {user ?` Welcome Back ${user?.name} ` :  'Register Now'}
+             {user.length ?` Welcome Back ${user?.name} ` :  'Register Now'}
             </a>
             <button
               type="button"
