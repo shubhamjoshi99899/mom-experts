@@ -31,17 +31,17 @@ const Home = () => {
       >
         <Hero />
       </div>
-      <div data-aos="fade-up">
+      <div data-aos="fade-up"  data-aos-duration="2000">
         <Features />
       </div>
-      <div data-aos="fade-right">
+      <div data-aos="fade-right"  data-aos-duration="2000">
         <Stats />
       </div>
 
-      <div data-aos="fade-left">
+      <div data-aos="fade-left"  data-aos-duration="2000">
         <Testimonials />
       </div>
-      <div data-aos="zoom-in">
+      <div data-aos="zoom-in"  data-aos-duration="3000">
         <Contact />
       </div>
     </div>
