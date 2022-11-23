@@ -8,6 +8,7 @@ import Testimonials from "./testimonials";
 import Contact from "./contact";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import { Container } from "@mui/material";
 const Home = () => {
   const [user, setUser] = useState({});
 
@@ -23,6 +24,7 @@ const Home = () => {
   }, []);
   return (
     <div>
+      <Container maxWidth="lg" sx={{overflow:'hidden'}}>
       <Header user={user} />
       <Carousel user={user} />
       <div
@@ -44,6 +46,7 @@ const Home = () => {
       <div data-aos="zoom-in"  data-aos-duration="3000">
         <Contact />
       </div>
+      </Container>
     </div>
   );
 };
